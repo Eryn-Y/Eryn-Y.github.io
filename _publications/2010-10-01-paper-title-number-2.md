@@ -1,13 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Prospects for Improving Password Selection"
 collection: publications
-category: manuscripts
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: conferences
+excerpt: 'In this work, we investigate whether prospect theory, a behavioral model of how people evaluate risk, can provide insights into how users choose passwords and whether it can motivate new designs for password selection mechanisms that will nudge users to select stronger passwords. The results provide guidance for designing and implementing password selection interfaces that will significantly improve the strength of user-chosen passwords.'
+date: 2023-08
+venue: 'SOUPS 2023'
+paperurl: 'https://www.usenix.org/system/files/soups2023-amador.pdf'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
